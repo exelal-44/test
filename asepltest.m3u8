@@ -1,8 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
+EXT-X-USER-AGENT="Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://50.7.234.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://198.16.100.186:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-https://haoyunlai.serv00.net/Smartv-1.php?id=go_assp1
+https://windnew.newkso.ru/wind/premium124/mono.m3u8
