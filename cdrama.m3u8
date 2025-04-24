@@ -3,9 +3,9 @@
 #EXT-X-MEDIA-SEQUENCE:22
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:12
-#EXTINF:9,
+#EXTINF:9.600000,
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298516
+#EXTINF:9.600000,
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298516
 #EXTINF:9,
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298516
-#EXTINF:9,
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298516
+htt#EXTINF:9.600000,p://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298516
