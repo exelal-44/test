@@ -1,16 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:22
-#EXT-X-ALLOW-CACHE:NO
-#EXT-X-TARGETDURATION:12
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-DISCONTINUITY
-#EXTINF:9.600000,
-https://inews-linier.rctiplus.id/inews-sdi.m3u8
-#EXTINF:9.600000,
-https://inews-linier.rctiplus.id/inews-sdi.m3u8
-#EXTINF:9.600000,
-https://inews-linier.rctiplus.id/inews-sdi.m3u8
-#EXTINF:9.600000,
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 https://inews-linier.rctiplus.id/inews-sdi.m3u8
