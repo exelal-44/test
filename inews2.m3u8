@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:22
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-DISCONTINUITY
+#EXT-X-VLCOPT:http-user-agent=android-R+
+#EXT-X-VLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:9.600000,
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
