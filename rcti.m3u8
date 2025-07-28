@@ -1,9 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:22
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:12
-#EXTINF:9.600000,
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
